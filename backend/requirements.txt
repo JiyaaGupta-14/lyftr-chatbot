@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+litellm==1.110.2
+pydantic
+diskcache
+python-dotenv
+pytest
+httpx
